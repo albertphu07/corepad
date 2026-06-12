@@ -1,7 +1,7 @@
 # corepad
 The corepad is a  macro pad designed to combine keybinds into s single key. The project runs on the Seeed Studio XIAO RP2040 microcontroller and uses KMK Firmware built with CircuitPython.
 
-![corepad cad image](assets/cad.png)
+![corepad cad image](assets/model.png)
 
 ## Key Features
 
@@ -15,7 +15,6 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 ![corepad pcb image](assets/pcb.png)
 
 
-![corepad final desgin image](assets/cad.png)
 
 #BOM Of Parts: 
 
