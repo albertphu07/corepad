@@ -16,12 +16,12 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 
 
 
-##BOM Of Parts: 
+ ## BOM Of Parts: 
 
- ##1x Seeed XIAO RP2040
- ##3x MX-Style switches
- ##1x 0.91 inch OLED display
- ##3x white blank DSA keycaps
- ##4x M3x16mm screws
- ##4x M3x5mx4mm heatset inserts
+ # 1x Seeed XIAO RP2040
+ # 3x MX-Style switches
+ # 1x 0.91 inch OLED display
+ # 3x white blank DSA keycaps
+ # 4x M3x16mm screws
+ # 4x M3x5mx4mm heatset inserts
  
