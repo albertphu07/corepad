@@ -18,7 +18,7 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 
  ## BOM Of Parts: 
 
- # 1x Seeed XIAO RP2040 cheapest one here: https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html
+ # 1x Seeed XIAO RP2040 cheapest one here: [https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html](https://www.amazon.com/gp/product/B0DRNTQ338)
  # 3x MX-Style switches (I already have)
  # 1x 0.91 inch OLED display cheapest one here: https://www.amazon.com/gp/product/B079BN2J8V?psc=1
  # 3x white blank DSA keycaps (Can 3d print)
