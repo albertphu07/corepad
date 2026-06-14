@@ -28,6 +28,6 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 | | **Effective Build Cost** | **~$23.68** |
 
 **Notes**
-- All listed parts currently have free shipping.
+- All listed parts currently have free shipping (execpt for pcb).
 - Keycaps can be substituted with 3D-printed versions to reduce cost.
 - PCB pricing may change depending on shipping costs and applicable tariffs.
