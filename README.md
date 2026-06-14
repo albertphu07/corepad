@@ -15,15 +15,19 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 ![corepad pcb image](assets/pcb.png)
 
 
+# Bill of Materials (BOM)
 
- ## BOM Of Parts: 
+| Qty | Part | Notes / Source |
+|------|------|------|
+| 1x | Seeed XIAO RP2040 | Cheapest found: https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html |
+| 3x | MX-Style Switches | Already owned |
+| 1x | 0.91" OLED Display | Cheapest found: https://www.amazon.com/gp/product/B079BN2J8V?psc=1 |
+| 3x | White Blank DSA Keycaps | Can be 3D printed |
+| 4x | M3 × 16 mm Screws | Will purchase later for final build |
+| 4x | M3 × 5 mm × 4 mm Heat-Set Inserts | Cheapest found: https://www.amazon.com/Aoserge-100Pcs-Brass-Heat-Inserts/dp/B0FM45X5TD |
+| 1x | PCB | Estimated cost: ~$3 from JLCPCB (tariffs/shipping still being evaluated) |
 
- # 1x Seeed XIAO RP2040 cheapest one here: [https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html](https://www.amazon.com/gp/product/B0DRNTQ338)
- # 3x MX-Style switches (I already have)
- # 1x 0.91 inch OLED display cheapest one here: https://www.amazon.com/gp/product/B079BN2J8V?psc=1
- # 3x white blank DSA keycaps (Can 3d print)
- # 4x M3x16mm screws (ill get theses for the final one later)
- # 4x M3x5mx4mm heatset inserts cheapest one here: https://www.amazon.com/Aoserge-100Pcs-Brass-Heat-Inserts/dp/B0FM45X5TD
- # pcb (need to figure out but so far it would only cost 3 bucks on jlb pcb but need to figure out tariffs)
- 
-ALL FREE SHIPPING :)
+**Notes**
+- All listed parts currently have free shipping.
+- Keycaps can be substituted with 3D-printed versions to reduce cost.
+- PCB pricing may change depending on shipping costs and applicable tariffs.
