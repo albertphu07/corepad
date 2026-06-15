@@ -24,8 +24,8 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 | 1x | 0.91" OLED Display (1 of 2 included) | ~$4.00 |
 | 3x | White Blank DSA Keycaps | $4.59|
 | 4x | M3x5mmx4mm Heat-Set Inserts | ~$4.99 |
-| 1x | PCB | $24.65 	 | (with free shipping so it is cheaper than paying jlb pcb 40 bucks to ship it out to me on top of customs)
-| | **Effective Build Cost** | **~$49.22* |
+| 1x | PCB | $6.32 	 | (With shipping (idk how much with customs fees due to tarffis and import from china))
+| | **Effective Build Cost** | **~$30.89* |
 
 **Notes**
 - All listed parts currently have free shipping (execpt for pcb).
