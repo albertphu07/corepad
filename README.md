@@ -30,4 +30,4 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 **Notes**
 - All listed parts currently have free shipping (execpt for pcb).
 - Keycaps can be substituted with 3D-printed versions to reduce cost.
-- PCB will be brought from OSH Park to avoid paying for shipping and customs to save the most ammount of money
+- PCB will be brought from jlbpcb 
