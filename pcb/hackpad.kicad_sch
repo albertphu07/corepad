@@ -665,7 +665,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+3.3V"
+		(symbol "power:+5V"
 			(power global)
 			(pin_numbers
 				(hide yes)
@@ -690,7 +690,7 @@
 					)
 				)
 			)
-			(property "Value" "+3.3V"
+			(property "Value" "+5V"
 				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -722,7 +722,7 @@
 					)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -744,7 +744,7 @@
 					)
 				)
 			)
-			(symbol "+3.3V_0_1"
+			(symbol "+5V_0_1"
 				(polyline
 					(pts
 						(xy -0.762 1.27) (xy 0 2.54)
@@ -782,7 +782,7 @@
 					)
 				)
 			)
-			(symbol "+3.3V_1_1"
+			(symbol "+5V_1_1"
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
@@ -998,13 +998,13 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 74.93) (xy 140.97 74.93)
+			(xy 140.97 80.01) (xy 142.24 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2c1e291f-e46a-4aac-b481-2123842083e3")
+		(uuid "34d9cf5e-8948-435a-bd4b-5dd9f4fefa2d")
 	)
 	(wire
 		(pts
@@ -1015,6 +1015,16 @@
 			(type default)
 		)
 		(uuid "44ecf735-3152-402f-b4ba-576fd15009a5")
+	)
+	(wire
+		(pts
+			(xy 142.24 80.01) (xy 142.24 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48d56516-65db-4276-81d3-8753c2600e79")
 	)
 	(wire
 		(pts
@@ -1078,6 +1088,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 83.82) (xy 140.97 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cc7af1f-0d2a-4e4e-a220-7550a22e57cf")
+	)
+	(wire
+		(pts
 			(xy 109.22 111.76) (xy 85.09 111.76)
 		)
 		(stroke
@@ -1138,16 +1158,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 88.9) (xy 147.32 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6f2669c-75ae-453c-a306-bca1b364857a")
-	)
-	(wire
-		(pts
 			(xy 85.09 111.76) (xy 85.09 93.98)
 		)
 		(stroke
@@ -1188,13 +1198,13 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 88.9) (xy 147.32 88.9)
+			(xy 132.08 83.82) (xy 140.97 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f36c2157-9f5b-4fb8-9522-ea27889e2186")
+		(uuid "fe7f521a-461d-419d-a284-07645d43a627")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -1511,6 +1521,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 142.24 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3c875b7b-80ce-43a9-9992-4de6bed1fb24")
+		(property "Reference" "#PWR05"
+			(at 142.24 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 142.24 73.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 142.24 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 142.24 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3f1575a0-bbec-4de1-9720-5fbe4878e252")
+		)
+		(instances
+			(project "hackpad"
+				(path "/a5ff69dc-afca-48f4-a9c3-02a4f920a331"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "XIAO_RP2040:MOUDLE-SEEEDUINO-XIAO")
 		(at 110.49 91.44 0)
 		(unit 1)
@@ -1627,84 +1715,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 140.97 74.93 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8c7e1270-9b00-4d61-ad72-bb48d61cd9f0")
-		(property "Reference" "#PWR06"
-			(at 140.97 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 140.97 69.85 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 140.97 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4c8a4bc1-cd2c-4286-88a7-e815bdc084f6")
-		)
-		(instances
-			(project "hackpad"
-				(path "/a5ff69dc-afca-48f4-a9c3-02a4f920a331"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 156.21 93.98 0)
 		(unit 1)
@@ -1785,7 +1795,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
+		(lib_id "power:+5V")
 		(at 130.81 123.19 0)
 		(mirror x)
 		(unit 1)
@@ -1795,8 +1805,8 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "bf875518-b411-4c27-8d8c-c4b5748f5323")
-		(property "Reference" "#PWR07"
+		(uuid "b4ceafe7-fa2a-48af-aa95-89ebe995b502")
+		(property "Reference" "#PWR03"
 			(at 130.81 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -1807,7 +1817,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+5V"
 			(at 130.81 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1839,7 +1849,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 130.81 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -1851,12 +1861,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3430cf17-78d3-4f8c-97b7-c77a52614799")
+			(uuid "0fce1419-1e06-4828-a99a-d19900f6b352")
 		)
 		(instances
 			(project "hackpad"
 				(path "/a5ff69dc-afca-48f4-a9c3-02a4f920a331"
-					(reference "#PWR07")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
