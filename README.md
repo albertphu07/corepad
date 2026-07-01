@@ -21,13 +21,13 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 |------|------|------:|
 | 1x | Seeed XIAO RP2040 (un-Soldered) | $10.00 |
 | 1x | 0.91" OLED Display  | ~$4.00 |
-| 3x | White Blank DSA Keycaps | $4.59|
-| 4x | M3x5mmx4mm Heat-Set Inserts | ~$4.99 |
+| 3x | White Blank DSA Keycaps | $0.99|
+| 4x | M3x5mmx4mm Heat-Set Inserts | ~$0.99 |
 | 1x | PCB | $6.32 	 | (With shipping (idk how much with customs fees due to tarffis and import from china))
-| 4x | M3x16mm screws | $6.32 	 | 
-| | **Effective Build Cost** | **~$30.89* |
+| | **Effective Build Cost** | **~$22.30* |
 
 **Notes**
 - All listed parts currently have free shipping (execpt for pcb).
 - Keycaps can be substituted with 3D-printed versions to reduce cost.
 - PCB will be brought from jlbpcb or  OSHPARK
+- Prices are subject to change due to shipping fees and tax
