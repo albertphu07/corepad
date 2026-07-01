@@ -1,4 +1,4 @@
 6/16/2026 - I started working on the PCB and learned a few new things along the way like how a pcb works (its just fancy wires lol) I learned that a pcb consists of many layers that you can select from with diffrant elements like copper and others, It was extreamly tricky for me to make it though beacuse i just started to get into the world of pcb making and CAD modeling too. I also learned that the wires on a pcb cannot be at a 90 degree angle and that wires that overlap are BAD VERY BAD! 2h
 6/18/2026 - I started working on the 3d model of the case for the desgin i had to do alot of revising cus i couldn't get it just right. Kicad was being anoyining tbh it wouldn't let me import my model to fusion 360 so that was fun! but there really isn't anything much to say i learned fusion 360 in school for a year so yhea it was pretty ez 2h
 6/24/2026 - Started this github page! 
-7/1/2026 - Added this JOURNAL.md ! I fixed my BOM and PCB desgin and learned what a ground pour is! I learned how to do a ground pour on kicad!
+7/1/2026 - Added this JOURNAL.md ! I fixed my BOM and PCB desgin and learned what a ground pour is! I learned how to do a ground pour on kicad! 10 min 
