@@ -12,7 +12,7 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 ![corepad schematic image](assets/schematic.png)
 
 
-![corepad pcb image](assets/pcb2.webp)
+![corepad pcb image](assets/pcb.png)
 
 
 # Bill of Materials (BOM)
