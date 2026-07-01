@@ -20,7 +20,6 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 | Qty | Part | Effective Cost |
 |------|------|------:|
 | 1x | Seeed XIAO RP2040 (un-Soldered) | $10.00 |
-| 3x | MX-Style Switches | $4.00 |
 | 1x | 0.91" OLED Display  | ~$4.00 |
 | 3x | White Blank DSA Keycaps | $4.59|
 | 4x | M3x5mmx4mm Heat-Set Inserts | ~$4.99 |
