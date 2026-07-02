@@ -31,4 +31,4 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 - Keycaps can be substituted with 3D-printed versions to reduce cost.
 - PCB will be brought from jlbpcb or  OSHPARK
 - Prices are subject to change due to shipping fees and tax
-- 3x Switches, 1X Seed XIAO RP2040, 1x OLED DISPLAY, 3x White Blank DSA Keycaps, 4x brass heated inserts, 4x Screws for the heated inserts!
+- Materials Needed: 3x Switches, 1X Seed XIAO RP2040, 1x OLED DISPLAY, 3x White Blank DSA Keycaps, 4x brass heated inserts, 4x Screws for the heated inserts!
