@@ -24,7 +24,8 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 | 3x | White Blank DSA Keycaps | $0.99|
 | 4x | M3x5mmx4mm Heat-Set Inserts | ~$0.99 |
 | 1x | PCB | $6.32 	 | (With shipping (idk how much with customs fees due to tarffis and import from china))
-| | **Effective Build Cost** | **~$22.30* |
+| 1x | Soldering Iron | $13.39 | 
+| | **Effective Build Cost** | **~$35.69* |
 
 **Notes**
 - All listed parts currently have free shipping (execpt for pcb).
