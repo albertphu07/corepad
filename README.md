@@ -25,6 +25,7 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 | 4x | M3x5mmx4mm Heat-Set Inserts | ~$0.99 |
 | 1x | PCB | $6.32 	 | (With shipping (idk how much with customs fees due to tarffis and import from china))
 | 1x | Soldering Iron | $9.99 | 
+| 3x | Holy Panda Switches | 0.621 |
 | | **Effective Build Cost Before Tax** | **~$32.29* |
 
 **Notes**
