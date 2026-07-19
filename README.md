@@ -9,58 +9,20 @@
 <img src="https://img.shields.io/badge/Firmware-KMK-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Platform-CircuitPython-purple?style=for-the-badge">
 
+<br><br>
+
+<a href="https://ko-fi.com/corepad">
+<img src="https://img.shields.io/badge/☕%20Support%20Me-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Me">
+</a>
+
+&nbsp;
+
+<a href="https://ko-fi.com/corepad/shop">
+<img src="https://img.shields.io/badge/🛒%20Buy%20a%20Kit-Ko--fi%20Shop-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy a Kit">
+</a>
+
 <p>
 A compact mechanical macropad designed for creators, developers, gamers, and everyday productivity.
 </p>
 
 </div>
-
----
-
-## ✨ Features
-
-- ⌨️ Fully programmable keys
-- ⚡ Powered by the Seeed Studio XIAO RP2040
-- 🐍 KMK Firmware support
-- 🔌 USB-C connectivity
-- 💡 RGB lighting support
-- 🖥️ OLED display support
-- 🧩 Open-source hardware and firmware
-- 🛠️ Easy to modify and customize
-
----
-
-## 📸 Preview
-
-<p align="center">
-<img src="images/corepad.png" width="700" alt="CorePad">
-</p>
-
----
-
-## 🛠 Hardware
-
-| Component | Description |
-|-----------|-------------|
-| MCU | Seeed Studio XIAO RP2040 |
-| Firmware | KMK |
-| Language | CircuitPython |
-| Switches | MX Compatible |
-| Connection | USB-C |
-| Display | SSD1306 OLED *(Optional)* |
-| Lighting | RGB LED *(Optional)* |
-
----
-
-## 📂 Repository Structure
-
-```text
-CorePad/
-│
-├── firmware/
-├── pcb/
-├── case/
-├── images/
-├── docs/
-├── LICENSE
-└── README.md
