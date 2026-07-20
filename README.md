@@ -1,3 +1,6 @@
+IF YOU HAVE A KIT GET STARTED HERE! (also has documentation) 
+https://github.com/albertphu07/corepad/wiki
+
 <div align="center">
 
 # CorePad
