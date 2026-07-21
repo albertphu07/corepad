@@ -26,7 +26,8 @@ The corepad is a  macro pad designed to combine keybinds into s single key. The 
 | 1x | PCB | $6.32 	 | (With shipping (idk how much with customs fees due to tarffis and import from china))
 | 1x | Soldering Iron | $9.99 | 
 | 3x | Holy Panda Switches | 0.621 |
-| | **Effective Build Cost Before Tax** | **~$32.29* |
+| 6x | HOLTITE | 5.59 | 
+| | **Effective Build Cost Before Tax** | **~$37.88* |
 
 **Notes**
 - All listed parts currently have free shipping (execpt for pcb).
