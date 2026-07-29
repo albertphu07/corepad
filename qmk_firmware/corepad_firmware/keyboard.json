@@ -8,6 +8,14 @@
         ]
     },
 
+    {
+    "usb": {
+        "vid": "0x4E58",
+        "pid": "0x0001",
+        "device_version": "1.0.0"
+    }
+}
+
     "layouts": {
         "LAYOUT": {
             "layout": [
