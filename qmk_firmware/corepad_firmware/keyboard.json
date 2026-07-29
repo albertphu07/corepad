@@ -1,0 +1,32 @@
+{
+    "keyboard_name": "CorePad Lite",
+    "manufacturer": "CorePad Technologies INC",
+
+    "matrix_pins": {
+        "direct": [
+            ["GP26","GP27","GP28"]
+        ]
+    },
+
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "matrix": [0,0],
+                    "x":0,
+                    "y":0
+                },
+                {
+                    "matrix": [0,1],
+                    "x":1,
+                    "y":0
+                },
+                {
+                    "matrix": [0,2],
+                    "x":2,
+                    "y":0
+                }
+            ]
+        }
+    }
+}
