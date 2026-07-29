@@ -26,4 +26,4 @@
 
 
 #define MANUFACTURER "CorePad Technologies INC"
-#define PRODUCT "CorePad Lite"
+#define PRODUCT "CorePad V1"
