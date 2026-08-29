@@ -5,4 +5,4 @@
 <img width="758" height="654" alt="image" src="https://github.com/user-attachments/assets/3bcc7880-08a4-431f-b085-dece0f5568af" />
 
 6/24/2026 - Started this github page! 
-7/1/2026 - Added this JOURNAL.md ! I fixed my BOM and PCB desgin and learned what a ground pour is! I learned how to do a ground pour on kicad! 10 min 
+7/1/2026 - I fixed my BOM and PCB desgin and learned what a ground pour is! I learned how to do a ground pour on kicad! 30 min 
