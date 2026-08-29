@@ -12,3 +12,6 @@ Ground Pour - Makes everything ground except for the traces 5h ughhhh that was p
 
 6/24/2026 - Started this github page! 
 7/1/2026 - I fixed my BOM and PCB desgin and learned what a ground pour is! I learned how to do a ground pour on kicad! 30 min 
+
+7/20/2026 - sanded down a built the macropad! Pretty obv and ez to do just tedius to solder and sand down the print!
+<img width="480" height="270" alt="ce699357-2363-4bd0-a029-5e564d9b8603_1" src="https://github.com/user-attachments/assets/b8c6f670-da2d-4f6f-99b0-1c2d2a5577b8" />
