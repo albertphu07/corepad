@@ -13,12 +13,12 @@ Overlapping traces are a big no. If two traces overlap on the same layer without
 Ground Pour - Makes everything ground except for the traces 5h ughhhh that was painfulllll
 
 Total time spent: 5 hours
+
 <img width="505" height="657" alt="image" src="https://github.com/user-attachments/assets/f8d48271-46bc-4231-9d4f-e70cb886c00d" />
-
-
-June 18, 2026: 3D model of the case 
+June 18, 2026: 3D model of the case
 
 I started working on the 3d model of the case for the desgin i had to do alot of revising cus i couldn't get it just right. Kicad was being anoyining tbh it wouldn't let me import my model to fusion 360 so that was fun! but there really isn't anything much to say i learned fusion 360 in school for a year so yhea it was pretty ez
+
 <img width="758" height="654" alt="image" src="https://github.com/user-attachments/assets/8e0b9d25-05b3-491a-8b01-1398e1e6b13f" />
 
 Total time spent: 2 hours
@@ -40,5 +40,5 @@ July 20, 2026: Sanded down and built the macropad
 sanded down a built the macropad! Pretty obv and ez to do just tedius to solder and sand down the print! ik that people are gonna say that the time for this is pretty inflated keep in mind that i am new to pcb making (so it took me a while to learn) and for the case i had to sand it down alot to make it smooth and spray paint it
 
 Total time spent: 2 hours
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/56d088f2-c29f-45c7-bff7-fbb5c31d9a2e" />
 
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/56d088f2-c29f-45c7-bff7-fbb5c31d9a2e" />
